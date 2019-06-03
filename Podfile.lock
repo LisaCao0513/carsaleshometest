@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (4.8.2)
+  - HandyJSON (5.0.0-beta)
+  - MJRefresh (3.2.0)
+  - SDAutoLayout (2.1.9)
+  - SDWebImage (5.0.4):
+    - SDWebImage/Core (= 5.0.4)
+  - SDWebImage/Core (5.0.4)
+  - SVProgressHUD (2.1.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - HandyJSON (= 5.0.0-beta)
+  - MJRefresh
+  - SDAutoLayout (~> 2.1.3)
+  - SDWebImage (>= 4.0.0)
+  - SVProgressHUD (~> 2.1.2)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - HandyJSON
+    - MJRefresh
+    - SDAutoLayout
+    - SDWebImage
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  HandyJSON: b84ac9904050a0897a0802092b7cb8808e0a4e9a
+  MJRefresh: ed450d6eb9d3346a2cb033ab7eb6de090aeef437
+  SDAutoLayout: 6b6f4db0d009dfc46cef14ef710dbb164e86616c
+  SDWebImage: c739016e4bdf0a4a1f9a04b5e0385395ad63a282
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+
+PODFILE CHECKSUM: a74948bc7f379fb5b7e70526a346129d7dee6891
+
+COCOAPODS: 1.5.3
